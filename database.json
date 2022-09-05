@@ -1,0 +1,9 @@
+{
+    " dev ": {
+        "driver": " pg ",
+        " user ": " postgres ",
+        " password ": " mydb23 ",
+        " host ": " localhost ",
+        "database":"card_db"
+    }
+}
